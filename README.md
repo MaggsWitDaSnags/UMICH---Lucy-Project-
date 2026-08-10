@@ -15,5 +15,5 @@ I also have left documentation for the methodology behind the model.
 - If you want raw data from my time at UMich --> check out the Yang Lab sever!
 
 Please feel free to reach out if you have questions and I can try to help troubleshoot.
-Email: meckh776@live.kutztown.edu
-Phone: 484-538-5803
+- Email: meckh776@live.kutztown.edu
+- Phone: 484-538-5803
