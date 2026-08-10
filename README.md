@@ -1,4 +1,4 @@
-##This repository holds all of the useful tools I created during my 10 week REU at UMich in Dr.Yang's Lab. 
+This repository holds all of the useful tools I created during my 10 week REU at UMich in Dr.Yang's Lab. 
 
 
 All of the code should be in here along with guides that breakdown their use and some issues that might arise line by line.
