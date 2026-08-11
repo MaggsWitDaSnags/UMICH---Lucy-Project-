@@ -13,8 +13,9 @@ I also have left documentation for the methodology behind the model.
 - For the protocol for extracting the compartment measurements --> check out the **Documentation** branch.
 - For the Model Documentation --> check out the **Model** branch.
 - For the Model iterations and code --> check out the **Model** branch.
-- For any of my presentations --> check out the **Documentation** branch. 
+- For any of my presentations --> check out the server. 
 - For any of the raw excel files --> check out the **Documentation** branch.
+- For the minute lag analysis --> check out the **Documentation** branch.
 - If you want raw data from my time at UMich --> check out the Yang Lab sever!
 
 
